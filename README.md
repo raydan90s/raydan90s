@@ -1,7 +1,8 @@
 <div align="center">
 <h1 align="center">Hi, I'm Diego Parrales👋</h1>
-</div>
 <img src="https://i.imgur.com/IaM4Wfp.png" width="600" />
+
+</div>
 
 ## Sobre mi
 
