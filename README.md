@@ -53,6 +53,6 @@
 <a href="https://github.com/raydan90s">
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=raydan90s&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
   <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=raydan90s&layout=compact&langs_count=8&theme=algolia"/>
+  <img src="https://streak-stats.demolab.com?user=raydan90s&theme=algolia"/>
 </a>
-  <img src='http://github-readme-streak-stats.herokuapp.com?user=raydan90s&theme=algolia&background=0d1117&hide_border=true'/>
 </p>
